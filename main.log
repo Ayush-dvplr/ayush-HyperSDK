@@ -1,0 +1,16 @@
+[08-16|01:14:01.178] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:14:01.692] INFO client/client.go:139 start
+[08-16|01:16:26.145] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:16:26.148] INFO client/client.go:139 start
+[08-16|01:19:10.371] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:19:10.373] INFO client/client.go:139 start
+[08-16|01:21:52.620] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:21:52.623] INFO client/client.go:139 start
+[08-16|01:25:00.740] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:25:00.744] INFO client/client.go:139 start
+[08-16|01:32:23.984] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:32:24.502] INFO client/client.go:139 start
+[08-16|01:42:26.405] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:42:26.411] INFO client/client.go:139 start
+[08-16|01:57:30.572] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-16|01:57:31.337] INFO client/client.go:139 start
