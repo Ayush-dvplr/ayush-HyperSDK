@@ -27,7 +27,7 @@ MODE="run-single" ./scripts/run.sh
 
 
 
-<img align="center" width="1245" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/efbc7005-7d68-4ea0-b30a-eb7bbde1b2df">
+<img align="center" width="1245" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724352863/hyperSDK_1_1.png">
 
 
 By default, this allocates all funds on the network to `token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp`.
@@ -57,7 +57,7 @@ Lastly, we'll need to add the chains that we created and the default key to the
 ```
 
 
-<img width="1113" alt="image" src="https://github.com/PradeepSahhu/CustomSubnet-using-HyperSDK/assets/94203408/6e24ec08-6a87-4cb1-95e4-0c5e7840df25">
+<img width="1113" alt="image" src="https://res.cloudinary.com/dsprifizw/image/upload/v1724352863/hyperSDK_1_2.png">
 
 
 `chain import-anr` connects to the Avalanche Network Runner server running in
