@@ -14,3 +14,15 @@
 [08-16|01:42:26.411] INFO client/client.go:139 start
 [08-16|01:57:30.572] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
 [08-16|01:57:31.337] INFO client/client.go:139 start
+[08-22|20:45:08.033] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-22|20:45:08.565] INFO client/client.go:139 start
+[08-22|21:05:29.743] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-22|21:05:29.762] INFO client/client.go:139 start
+[08-22|21:09:52.806] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-22|21:09:52.810] INFO client/client.go:139 start
+[08-22|21:11:39.975] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-22|21:11:40.486] INFO client/client.go:139 start
+[08-22|21:12:59.021] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-22|21:12:59.024] INFO client/client.go:139 start
+[08-22|21:15:18.165] DEBUG client/client.go:70 dialing server at  {"endpoint": "0.0.0.0:12352"}
+[08-22|21:15:18.675] INFO client/client.go:139 start
